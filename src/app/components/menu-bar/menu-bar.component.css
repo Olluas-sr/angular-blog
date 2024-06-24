@@ -1,0 +1,17 @@
+.menu-bar__container > ul{
+    display: flex;
+    flex-direction: row;
+}
+
+.menu-bar__container > ul > li{
+    margin-right: 20px;
+    list-style: none;
+}
+
+.menu-bar__container > ul > li > a{
+    color: #d0d0d0;
+}
+
+.menu-bar__container > ul > li > span{
+    color: #d0d0d0;
+}
